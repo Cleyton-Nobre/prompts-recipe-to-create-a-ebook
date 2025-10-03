@@ -2,7 +2,7 @@
   <img src="./assets/Fremen_dos_dados.png" width="300" alt="Fremen dos dados" />
 </p>
 
-<h1 align="center">Projeto Podcast Gerado por I.A.s</h1>
+<h1 align="center">Projeto eBook Gerado por I.A.s</h1>
 
 <p align="center">
   🤖✨ Crie um podcast do zero usando inteligência artificial!
