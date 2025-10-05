@@ -19,7 +19,7 @@ A metodologia utilizada baseia-se em uma **esteira de prompts** cuidadosamente p
 ## **📘 Leia o eBook**
 
 <p align="center">
-  <a href="./output/fremen-dos-dados.pdf" download>
+  <a href="./output/framen-dos-dados.pdf" download>
     📥 Fremen dos Dados – Conceitos Básicos (.pdf)
   </a>
 </p>
